@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Shikhar</h1>
-<h3 align="center">A passionate developer from Bangalore, India</h3>
+<h3 align="center">A passionate developer from Kanpur, India</h3>
 <p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=Shikhar1107" alt="Shikhar1107" /></p>
 
 <h4 align="center">
- I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a pre-final year student and currently building skills to become a Full Stack Web Developer. I love coding in Python, Java, Javascript and Typescript, and I love to learn new tech! Here are all of my projects, feel free to use and modify them! 😄 
+ I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a pre-final year student and currently building skills to become a Data Scientist. I love coding in Python, Java, C++ and C, and I love to learn new tech! Here are all of my projects, feel free to use and modify them! 😄 
 </h4>
 
 <h2 align="center">Stats: </h2>

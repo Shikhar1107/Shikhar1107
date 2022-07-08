@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Shikhar</h1>
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px", align="center" />
+<h1 align="center">Hi, I'm Shikhar</h1>
 <h3 align="center">A passionate developer from Kanpur, India</h3>
 <p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=Shikhar1107" alt="Shikhar1107" /></p>
 
